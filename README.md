@@ -1,4 +1,4 @@
-# Locking multi-user-editing?
+# Basic CRUD with Angular 14 and NodeJS with Express
 
 Basic CRUD example on Angular 14 and NodeJS with Express. Use as base for more advanced examples.
 
